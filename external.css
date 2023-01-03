@@ -1,0 +1,21 @@
+h3{
+    color: red;
+    text-align: center;
+}
+
+p{
+    color: magenta;
+}
+.box{
+    border: 30px solid pink;
+    background-color: blue;
+    margin: 40px;
+    padding: 40px;
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+    
+
+}
